@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uskECtOjP10fXHQQNS1stjywTtO90mwV5Dta6lW3rgBuQwDK/ZFdP2q7ytOF8KYSfH0dXMRFb/Ac1Wsf72pR7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis\\Desktop\\Microservices\\VictorVental\\Customers.Domain\\Customers.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Luis\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

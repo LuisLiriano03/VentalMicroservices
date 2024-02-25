@@ -1,0 +1,12 @@
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\bin\Debug\net7.0\Customers.Infrastructure.deps.json
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\bin\Debug\net7.0\Customers.Infrastructure.dll
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\bin\Debug\net7.0\Customers.Infrastructure.pdb
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.dll
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\refint\Customers.Infrastructure.dll
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\Customers.Infrastructure.pdb
+C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Infrastructure\obj\Debug\net7.0\ref\Customers.Infrastructure.dll
