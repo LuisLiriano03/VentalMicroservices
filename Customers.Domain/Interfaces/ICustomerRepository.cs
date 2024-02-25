@@ -9,7 +9,7 @@ using System.Linq.Expressions;
 
 namespace Customers.Domain.Interfaces
 {
-    public interface ICustomersRepository<TModel> where TModel : class
+    public interface ICustomerRepository<TModel> where TModel : class
     {
         Task<TModel> GetDataDetails(Expression<Func<TModel, bool>> filter);
         Task<TModel> CreateData(TModel model);
