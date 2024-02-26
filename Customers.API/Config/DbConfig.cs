@@ -12,5 +12,7 @@ namespace Customers.API.Config
 
             return service;
         }
+
     }
+
 }

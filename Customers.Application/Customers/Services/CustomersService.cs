@@ -4,11 +4,6 @@ using Customers.Application.Customers.Exceptions;
 using Customers.Application.Customers.Interfaces;
 using Customers.Domain.Entities;
 using Customers.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Customers.Application.Customers.Services
 {

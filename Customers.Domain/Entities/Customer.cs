@@ -1,9 +1,4 @@
 ﻿using Customers.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Customers.Domain.Entities
 {
@@ -18,4 +13,5 @@ namespace Customers.Domain.Entities
         public DateTimeOffset LastPurchaseDate { get; set; } 
 
     }
+
 }

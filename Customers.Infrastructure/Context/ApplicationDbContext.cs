@@ -10,13 +10,9 @@ namespace Customers.Infrastructure.Context
 {
     public class ApplicationDbContext : DbContext
     {
-
-
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options ) : base(options) 
         { 
-            
-
-            
+        
         }
 
         public DbSet<Customer> Customers { get; set; }
@@ -27,4 +23,5 @@ namespace Customers.Infrastructure.Context
         }
 
     }
+
 }

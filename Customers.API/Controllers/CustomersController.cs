@@ -1,7 +1,6 @@
 ﻿using Customers.API.Utility;
 using Customers.Application.Customers.Dtos;
 using Customers.Application.Customers.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Customers.API.Controllers
