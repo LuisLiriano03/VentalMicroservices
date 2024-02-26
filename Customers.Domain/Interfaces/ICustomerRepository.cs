@@ -4,7 +4,7 @@ namespace Customers.Domain.Interfaces
 {
     public interface ICustomerRepository<TModel> where TModel : class
     {
-        Task<TModel> GetDataDetails(Expression<Func<TModel, bool>> filter);
+        Task<TModel> GetAllAsync(Expression<Func<TModel, bool>> filter);
         Task<TModel> CreateData(TModel model);
         Task<bool> UpdateData(TModel model);
         Task<bool> RemoveData(TModel model);

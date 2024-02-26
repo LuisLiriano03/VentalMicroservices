@@ -14,7 +14,7 @@ namespace Customers.Infrastructure.Repositorys
             _dbContext = context;
         }
 
-        public async Task<TModel> GetDataDetails(Expression<Func<TModel, bool>> filter)
+        public async Task<TModel> GetAllAsync(Expression<Func<TModel, bool>> filter)
         {
             try
             {

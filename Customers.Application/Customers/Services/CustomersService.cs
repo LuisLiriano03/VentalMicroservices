@@ -59,7 +59,7 @@ namespace Customers.Application.Customers.Services
             try
             {
                 var customerModel = _mapper.Map<Customer>(model);
-                var customerFound = await _customerRepository.GetDataDetails(u => u.Id == customerModel.Id);
+                var customerFound = await _customerRepository.GetAllAsync(u => u.Id == customerModel.Id);
 
                 if (customerFound == null)
                     throw new WhenNoExistException();
@@ -90,7 +90,7 @@ namespace Customers.Application.Customers.Services
         {
             try
             {
-                var customerFound = await _customerRepository.GetDataDetails(u => u.Id == id);
+                var customerFound = await _customerRepository.GetAllAsync(u => u.Id == id);
 
                 if (customerFound == null)
                     throw new WhenNoExistException();
