@@ -1,10 +1,14 @@
 using Customers.API.Config;
+using Customers.Application;
 using Customers.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddRepositories();
+builder.Services
+    .AddApplication()
+    .AddRepositories();
 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.ConfigDbConnection(builder.Configuration);
 
