@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/kIBJn33JNFshWkYtrMolkyMk3TNc76A90zRVZ8I574BsiN8/eKpLP2XlYDSdU4CZwRLIGMj5FzmMOJSfYVCfw==",
+  "dgSpecHash": "AgWM7QpPrU0DQ1v7c0d1Cs9ZpRUB0qUYSA/EfPStCHXgNyLoo21cL7dH9a5SjH6pgibVwdZEju/JLIskS3ROww==",
   "success": true,
   "projectFilePath": "C:\\Users\\lliri\\Escritorio\\Microservice\\VentalMicroservices\\Customers.Domain\\Customers.Domain.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,7 @@
     "C:\\Users\\lliri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\lliri\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\lliri\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\lliri\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\lliri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\lliri\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\lliri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+    "C:\\Users\\lliri\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
