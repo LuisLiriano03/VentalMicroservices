@@ -815,23 +815,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luis\\.nuget\\packages\\": {},
+    "C:\\Users\\lliri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\Desktop\\Microservices\\VictorVental\\Customers.Application\\Customers.Application.csproj",
+      "projectUniqueName": "C:\\Users\\lliri\\Escritorio\\Microservice\\VentalMicroservices\\Customers.Application\\Customers.Application.csproj",
       "projectName": "Customers.Application",
-      "projectPath": "C:\\Users\\Luis\\Desktop\\Microservices\\VictorVental\\Customers.Application\\Customers.Application.csproj",
-      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis\\Desktop\\Microservices\\VictorVental\\Customers.Application\\obj\\",
+      "projectPath": "C:\\Users\\lliri\\Escritorio\\Microservice\\VentalMicroservices\\Customers.Application\\Customers.Application.csproj",
+      "packagesPath": "C:\\Users\\lliri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lliri\\Escritorio\\Microservice\\VentalMicroservices\\Customers.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lliri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -847,8 +847,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Luis\\Desktop\\Microservices\\VictorVental\\Customers.Domain\\Customers.Domain.csproj": {
-              "projectPath": "C:\\Users\\Luis\\Desktop\\Microservices\\VictorVental\\Customers.Domain\\Customers.Domain.csproj"
+            "C:\\Users\\lliri\\Escritorio\\Microservice\\VentalMicroservices\\Customers.Domain\\Customers.Domain.csproj": {
+              "projectPath": "C:\\Users\\lliri\\Escritorio\\Microservice\\VentalMicroservices\\Customers.Domain\\Customers.Domain.csproj"
             }
           }
         }
@@ -857,6 +857,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -896,7 +901,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

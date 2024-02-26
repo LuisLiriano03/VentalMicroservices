@@ -10,3 +10,16 @@ C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Domain\obj\Debug\net7
 C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Domain\obj\Debug\net7.0\refint\Customers.Domain.dll
 C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Domain\obj\Debug\net7.0\Customers.Domain.pdb
 C:\Users\Luis\Desktop\Microservices\VictorVental\Customers.Domain\obj\Debug\net7.0\ref\Customers.Domain.dll
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\bin\Debug\net7.0\Customers.Domain.deps.json
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\bin\Debug\net7.0\Customers.Domain.dll
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\bin\Debug\net7.0\Customers.Domain.pdb
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.csproj.AssemblyReference.cache
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.AssemblyInfoInputs.cache
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.AssemblyInfo.cs
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.sourcelink.json
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.dll
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\refint\Customers.Domain.dll
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\Customers.Domain.pdb
+C:\Users\lliri\Escritorio\Microservice\VentalMicroservices\Customers.Domain\obj\Debug\net7.0\ref\Customers.Domain.dll

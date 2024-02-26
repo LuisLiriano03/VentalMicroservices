@@ -1,4 +1,12 @@
+using Customers.API.Config;
+using Customers.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddRepositories();
+
+
+builder.Services.ConfigDbConnection(builder.Configuration);
 
 // Add services to the container.
 
