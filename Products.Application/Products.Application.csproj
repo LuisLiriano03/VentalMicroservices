@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Products\AutoMappers\" />
+    <Folder Include="Products\Dtos\" />
+    <Folder Include="Products\Exceptions\" />
+    <Folder Include="Products\Interfaces\" />
+    <Folder Include="Products\Services\" />
+  </ItemGroup>
+
+</Project>
