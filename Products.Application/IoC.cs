@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Products.Application
 {
-    internal class IoC
+    public class IoC
     {
+
     }
 }
